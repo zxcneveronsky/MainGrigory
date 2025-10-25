@@ -3,6 +3,7 @@ package org.example;
 public class Car {
     int wheels;
     String nameCar;
+    int aaa=0;
     public void goodook(){
         System.out.println("Sound");
     }
@@ -12,6 +13,7 @@ public class Car {
         else
             System.out.println("Not Start");
     }
+
 
 
 }
